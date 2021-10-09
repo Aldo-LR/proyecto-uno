@@ -1,0 +1,89 @@
+body{
+  font-family: Helvetica;
+}
+header{
+  background: green;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+
+}
+nav{
+  margin-right: 59px;
+}
+header a{
+  text-align: center;
+  color:white;
+}
+header .logo{
+  margin-top:25px;
+  margin-left:15px;
+  margin-bottom:20px;
+  font-size:25px;
+}
+
+.lista1{
+  margin-top:30px;
+  margin-left:33px;
+  margin-bottom:32px;
+  font-size:13px;
+
+}
+.lista1 li{
+  display: inline;
+  padding-left:3px;
+  padding-right:3px;
+  width: 100%;
+  margin-left:10px;
+}
+.lista-servicios{
+  padding:20px;
+  font-weight: bold;
+
+}
+section{
+  padding: 20px
+}
+footer{
+  background: green;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+h3{
+  text-align: center;
+  color:white;
+}
+h2{
+  font-weight: bold;
+  size:px;
+}
+.cajas{
+  padding: 1px;
+
+
+}
+p{
+  font-family: Helvetica;
+  text-align: justify;
+  font-size: 16px;
+  line-height: 25px;
+  margin-bottom: 10px;
+
+}
+
+#boton_enviar{
+  color:green;
+  background-color: transparent;
+  padding:20px;
+  width:100px;
+  font-weight: bold;
+  border-color: green;
+  border-style: solid;
+  text-align: center;
+
+  width:150px;height:60px
+
+
+}
